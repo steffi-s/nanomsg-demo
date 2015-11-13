@@ -1,3 +1,9 @@
+# Global
+.directory
+
+# PhpStorm
+.idea
+
 # Logs
 logs
 *.log
